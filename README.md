@@ -1,6 +1,6 @@
 #WEB RTC APP
 
-A full-stack Zoom-like video conferencing app built using **React**, **Node.js**, **MongoDB**, and **Socket.IO**. This project allows users to register, log in, create or join meetings, and communicate in real-time through audio/video and chat.
+A full-stack WEB RTC video conferencing app built using **React**, **Node.js**, **MongoDB**, and **Socket.IO**. This project allows users to register, log in, create or join meetings, and communicate in real-time through audio/video and chat.
 
 ---
 
